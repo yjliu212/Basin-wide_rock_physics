@@ -8,6 +8,8 @@ Liu, Y., J. H. Casado, M. El-Toukhy, and S. Tai, 2021, Basin-wide empirical rock
 
 Liu, Y., M. Ellis, M. El-Toukhy, and J. Hernandez, 2021, Basin-wide rock-physics analysis in Campeche Basin, Gulf of Mexico - phase II: Reservoir rock and fluid properties, The Leading Edge, 40, 716-722.
 
-  All the .py files are functions that will be called by the Jupyter notebook: RPT_Yetic_1.ipynb
+Notes:
 
-  .txt files are the input files.  
+All the .py files are functions that will be called by the Jupyter notebook: RPT_Yetic_1.ipynb
+
+.txt files are the input files.  
