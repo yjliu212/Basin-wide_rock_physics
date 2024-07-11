@@ -35,5 +35,6 @@ Next, using Raymer-Hunt-Gardner's equation, we modeled RPT for sandstone. In thi
 
 Next, we used Gassmann's equation to do fluid substitution and cross-plotted the new P-impedance vs Poisson ratio or Vp/Vs ratio for new fluid content that contains hydrocarbon. We overlain some data onto these cross-plots.
 
+![image](https://github.com/yjliu212/Basin-wide_rock_physics/assets/29761191/830edeff-45c8-4884-8f82-0956bf82c42a)
 
 
