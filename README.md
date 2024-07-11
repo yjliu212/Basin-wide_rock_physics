@@ -21,6 +21,7 @@ Description:
 In the Jupyter notebook: RPT_Yetic_1.ipynb, we first build a density trend based on Traugott's equation: ro=rosfl+a*(zbml*3.2808/c)**b, where rosfl is the seafloor density, a, b, c are calibration coefficients. Then we convert the density trend into overburden stress. Next, we calculate the temperature trend and burial age trend based on thermal gradient and burial rate. Using the temperature trend and burial age trend, we calculate the diagenesis function Beta. Beta function is needed in the velocity to effective stress transformation based on Dutta's equation. 
 
 Next We build a template of pore pressure gradients from 9 ppg to 17 ppg, and convert them to effecrtive stress template, then we convert these effective stress template to P-wave velocity using Issler's equation. This velocity template is our so-called Rock Physics Template (RPT), which can be used to overlain with Sonic velocity or seismic velocity for QC purpose. The figure below shows RPT with velocity curves range from 9 ppg to 17 ppg from right to left (background curves) and overlain with Sonic velocity (blue curve).
+
 ![image](https://github.com/yjliu212/Basin-wide_rock_physics/assets/29761191/4377678c-7221-4f31-b113-a86be5979732)
 
 In the shallow portion of the RPT, we corrected the P-wave velocity using Reuss equation, since these velocity are in a suspension mode that Issler's equation doesn't apply.
