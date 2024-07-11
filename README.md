@@ -34,7 +34,7 @@ Poisson ratio and Vp/Vs ratio are modeled using Castagna's Mud Rock Line and com
 
 Next, using Raymer-Hunt-Gardner's equation, we modeled RPT for sandstone. In this sand RPT, porosity trend is based on Athy's equation, then Vp, Density, P-impedance, and Poisson ratio templates with clay content changing from 0-1 are computed and cross-plotted. The cross-plot between P-impedance and Poisson ratio or Vp/Vs ratio are displayed.
 
-Next, we used Gassmann's equation to do fluid substitution and cross-plotted the new P-impedance vs Poisson ratio or Vp/Vs ratio for new fluid content that contains hydrocarbon. We overlain some data onto these cross-plots. In the figure below, tri-angles are data from hydrocarbon sands in Southern Gulf of Mexico. (Liu et al., 2021)
+Next, we used Gassmann's equation to do fluid substitution and cross-plotted the new P-impedance vs Poisson ratio or Vp/Vs ratio for new fluid content that contains hydrocarbon. We overlain some data onto these cross-plots. In the figure below, tri-angles are data from hydrocarbon sands in Southern Gulf of Mexico (Liu et al., 2021).
 
 ![image](https://github.com/yjliu212/Basin-wide_rock_physics/assets/29761191/830edeff-45c8-4884-8f82-0956bf82c42a)
 
