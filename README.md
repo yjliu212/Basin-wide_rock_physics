@@ -40,7 +40,7 @@ Next, we used Gassmann's equation to do fluid substitution and cross-plotted the
 
 ![image](https://github.com/yjliu212/Basin-wide_rock_physics/assets/29761191/830edeff-45c8-4884-8f82-0956bf82c42a)
 
-And we can further use these rock physics models for RPT-based AVO modeling. For example, for a given reservoir top and bottom depth and sand model, we could model the AVO response from such as reservoir. In the Python Notebook, we provided an example, in which the reservoir thickness is 50 m with reservoir top located at 2000 m, the picture below shows the modeled AVO curve at reservoir top, bottom and a deeper level with brine saturation. We can see class III type of AVO anomaly at reservoir top and bottom.
+And we can further use these rock physics models for RPT-based AVO modeling. For example, for a given reservoir top and bottom depth and sand model, we could model the AVO response from such a reservoir. In this Python Notebook, we provided an example, in which the reservoir thickness is 50 m with reservoir top located at 2000 m, the picture below shows the modeled AVO curve at reservoir top, bottom and a deeper level with brine saturation. We can see class III type of AVO anomaly at reservoir top and bottom.
 
 ![image](https://github.com/user-attachments/assets/b0c4c93c-baac-4596-9d0f-b0e6b049ecca)
 
