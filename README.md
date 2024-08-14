@@ -12,7 +12,7 @@ Liu, Y., M. Ellis, M. El-Toukhy, and J. Hernandez, 2021, Basin-wide rock-physics
 
 Notes:
 
-All the .py files are python functions that will be called in the Jupyter notebook: RPT_Well_1.ipynb
+All the .py files are python functions that will be called in the Jupyter notebook: [RPT_Well_1.ipynb](/RPT_Well_1.ipynb)
 
 All .txt files are the input files.  
 
