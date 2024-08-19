@@ -22,7 +22,8 @@ In the Jupyter notebook: RPT_Well_1.ipynb, we first build a density trend based 
 
 Next We build a template of pore pressure gradients from 9 ppg to 17 ppg, and convert them to effecrtive stress template, then we convert these effective stress template to P-wave velocity using Issler's equation. This velocity template is our so-called Rock Physics Template (RPT), which can be used to overlain with Sonic velocity or seismic velocity for QC purpose. The figure below shows RPT with velocity curves range from 9 ppg to 17 ppg from right to left (background curves) and overlain with Sonic velocity (blue curve).
 
-![image](https://github.com/user-attachments/assets/7ab57d5c-c66b-4a04-baea-c38178a453c1)
+![image](https://github.com/user-attachments/assets/ed40a158-a123-4f72-bc4b-f2288fcf1e05)
+
 
 In the shallow portion of the RPT, we corrected the P-wave velocity using Reuss equation, since these velocity are in a suspension mode that Issler's equation doesn't apply.
 
