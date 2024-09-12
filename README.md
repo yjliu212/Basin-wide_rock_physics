@@ -22,7 +22,7 @@ In the Jupyter notebook: RPT_Well_1.ipynb, we first build a density trend based 
 
 We also calculate the temperature and burial age trends based on thermal gradient and burial rate. Using these trends, we derive the diagenesis function, Beta, which is essential for the velocity-to-effective stress transformation using Dutta’s equation.
 
-Next, we create a template of pore pressure gradients ranging from 8.6 ppg to 17 ppg in 1 ppg increments. These pore pressure templates are converted to effective stress and then transformed into P-wave velocity using Issler’s equation. This forms our Rock Physics Template (RPT), which can be used to overlay with sonic or seismic velocity for quality control (QC). The figure below shows the RPT velocity curves (from 8.6 to 17 ppg) overlaid with the sonic velocity (blue curve). In the shallow section, P-wave velocity is corrected using the Reuss equation due to suspension mode conditions, where Issler’s equation does not apply.
+Next, we create a template of pore pressure gradients ranging from hydrostatic (8.6 ppg), and 9 ppg to 17 ppg in 1 ppg increments. These pore pressure templates are converted to effective stress and then transformed into P-wave velocity using Issler’s equation. This forms our Rock Physics Template (RPT), which can be used to overlay with sonic or seismic velocity for quality control (QC). The figure below shows the RPT velocity curves (from 8.6 to 17 ppg) overlaid with the sonic velocity (blue curve). In the shallow section, P-wave velocity is corrected using the Reuss equation due to suspension mode conditions, where Issler’s equation does not apply.
 
 ![image](https://github.com/user-attachments/assets/ed40a158-a123-4f72-bc4b-f2288fcf1e05)
 
